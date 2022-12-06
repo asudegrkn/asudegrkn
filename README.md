@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my undergraduate project.
 - 🌱 I’m currently learning java.
-- 📫 How to reach me: [linkedin].(https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/)
+- 📫 How to reach me: Link to[linkedin].(https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
