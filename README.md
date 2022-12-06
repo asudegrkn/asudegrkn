@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my undergraduate project.
+- 🌱 I’m currently learning java.
+- 📫 How to reach me: (https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/)
 <!--
 **asudegrkn/asudegrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
