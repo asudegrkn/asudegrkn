@@ -4,9 +4,9 @@
 </div>
 <div id="header" align="center"> <h1>Hi there 👋 </h1> </div>
 
-- :🔭: I’m currently working on my undergraduate project.
-- :🌱: I’m currently learning java.
-- :📫: How to reach me: [linkedin](https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/)
+- 🔭 I’m currently working on my undergraduate project.
+- 🌱 I’m currently learning java.
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
