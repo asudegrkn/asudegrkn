@@ -16,9 +16,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-### ⚡My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asudegrkn&theme=prussian&hide_border=true&background=000000)](https://git.io/streak-stats)
+<div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asudegrkn&theme=prussian&hide_border=true&background=000000)](https://git.io/streak-stats)
+</div>
 
 <!--
 **asudegrkn/asudegrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
