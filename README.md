@@ -1,8 +1,8 @@
-<div id="header" align="center"> Hi there 👋 </div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<div id="header" align="center"> Hi there 👋 </div>
 - 🔭 I’m currently working on my undergraduate project.
 - 🌱 I’m currently learning java.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/)
