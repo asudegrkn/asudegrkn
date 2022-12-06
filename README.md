@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my undergraduate project.
   <br>
 - 🌱 I’m currently learning java. <br>
-- 📫 How to reach me: <a href="[https://www](https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/).">linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/">linkedin</a>
 
   </div>
   </br>
@@ -29,7 +29,11 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asudegrkn&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
   
 </div>
-
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asudegrkn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
 <!--
 **asudegrkn/asudegrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
