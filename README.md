@@ -39,7 +39,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my undergraduate project.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ReactJs.
 - 📫 How to reach me: Link to[linkedin].(https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
