@@ -5,7 +5,7 @@
 <div id="header" align="center"> <h1>Hi there 👋 </h1> </div>
 
 <div align="center">
-- 🌱 I’m currently learning ReactJs. <br>
+- 🌱 I’m currently learning Python <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/asude-g%C3%BCrkan-50b386172/">linkedin</a>
 
   </div>
